@@ -9,7 +9,7 @@ The website is connected to the Coingecko API, which is a popular source of data
 
 👉 Live Demo: <a href='https://coindom-crypto-search.vercel.app/'>Coindom Demo</a>
 
-<h3>Build with:</h3>
+<h3>Technologies Used:</h3>
 
 » React JS <br>
 » SCSS  <br>
